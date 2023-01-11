@@ -1,0 +1,9 @@
+# tool
+loguru==0.6.0
+fire==0.4.0
+termcolor==1.1.0
+pipreqs==0.4.11
+art==5.5
+# nmmo
+numpy==1.22.3
+git+http://gitlab.aicrowd.com/neural-mmo/neurips2022-nmmo.git
