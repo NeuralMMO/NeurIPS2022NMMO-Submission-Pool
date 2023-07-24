@@ -1,5 +1,7 @@
 # Introduction
-This repository contains some top solutions for the NeurIPS2022 Neural MMO challenge and supports selecting several submissions to start a match.
+This repository contains models for the NeurIPS2022 Neural MMO challenge and supports selecting several submissions to start a match.
+
+Winners are invited to submit PRs with their solutions. Currently, the top submission is hosted separately here: https://github.com/NeuralMMO/NeurIPS2022-realikun
 
 NeurIPS2022 Neural MMO challenge: https://www.aicrowd.com/challenges/neurips-2022-the-neural-mmo-challenge
 
